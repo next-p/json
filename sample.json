@@ -1,0 +1,20 @@
+{
+    "name": "真那人",
+    "age": "3",
+    "gender": "male",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        {
+            "PHP": [
+                "オブジェクト指向",
+                "JSON/API"
+            ]
+        },
+        "MySQL"
+    ],
+    "hobby":
+    ["筋トレ","プロテイン"]
+}
+
